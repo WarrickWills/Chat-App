@@ -19,7 +19,7 @@ To start a connection, first someone must start the server. After this many clie
 
 ## Screenshots of Functionality
 
-![alt tag](http://puu.sh/swVjz/53eaa77b07.jpg)
+![alt tag](http://puu.sh/swVjz/53eaa77b07.jpg)<br />
 ![alt tag](http://puu.sh/swVf6/63f38cfedd.JPG)
 ![alt tag](http://puu.sh/swVgt/78a984b49a.jpg)
 
