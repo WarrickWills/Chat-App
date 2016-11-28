@@ -17,3 +17,9 @@ The chat system will also incorporate User Datagram Protocol (UDP) for updating 
 
 To start a connection, first someone must start the server. After this many client threads can be started. Once a client starts to run, the user will be given a prompt to enter the name they want to go by. They are then asked to enter an IP address to connect to (if they are running the server they can enter “localhost” or on multiple computers they must use the hosts IP address). The client would then be given their own chat application screen; which includes a text box to type the messages in, the public screen where the message are broadcasted, a send all button, a send private button and a side box with the list of other clients that are connected. If a client wishes to leave they can click the exit (“X”) at the top right to disconnect.
 
+## Screenshots of Functionality
+
+![alt tag](http://puu.sh/swVf6/63f38cfedd.JPG)
+![alt tag](http://puu.sh/swVgt/78a984b49a.jpg)
+
+
